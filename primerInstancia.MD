@@ -13,7 +13,7 @@ Escribir una consulta SQL que devuelva una lista con todas las cursadas dadas pa
 
 ## 2
 
-Escribir una consulta SQL que devuelva un listado con las mesas de examen que tengan fecha de examen en Diciembre de 2018. La misma deve tener 4 campos:
+Escribir una consulta SQL que devuelva un listado con las mesas de examen que tengan fecha de examen en Diciembre de 2018. La misma debe tener 4 campos:
 
 * ID de la Mesa
 * Nombre de la materia
